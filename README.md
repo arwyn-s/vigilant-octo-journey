@@ -42,3 +42,17 @@ switch to branch
 ```
 $ git checkout <branch-id>
 ```
+Merge branch with master 
+```
+$ git checkout master
+$ git merge branching
+```
+Resolve conflicts and then commit to finalize merge.
+
+---------
+
+Push branches to remote repository.
+
+```
+$ git checkout -b remote-branch
+```
