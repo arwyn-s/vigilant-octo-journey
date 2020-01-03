@@ -14,3 +14,11 @@ Commit the staged changes
 ```
 $ git commit -m "First commit"
 ```
+Check status of the current working directory.
+```
+$ git status
+```
+To view all commit history.
+```
+$ git log --oneline
+```
