@@ -33,4 +33,11 @@ $ git remote add origin https://github.com/arwyn-s/vigilant-octo-journey.git
 push all commit to remote repository
 ```
 $ git push -u origin master
+To create a new branch from HEAD
+```
+$ git branch <branch-id>
+```
+switch to branch
+```
+$ git checkout <branch-id>
 ```
