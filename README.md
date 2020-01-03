@@ -22,3 +22,15 @@ To view all commit history.
 ```
 $ git log --oneline
 ```
+To go back and view a commit.
+```
+$ git checkout <commit-id>
+```
+Add remote github repository 
+```
+$ git remote add origin https://github.com/arwyn-s/vigilant-octo-journey.git
+```
+push all commit to remote repository
+```
+$ git push -u origin master
+```
