@@ -55,4 +55,5 @@ Push branches to remote repository.
 
 ```
 $ git checkout -b remote-branch
+$ git push -u origin remote-branch
 ```
